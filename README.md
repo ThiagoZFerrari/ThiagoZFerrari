@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o Thiago Zimermann Ferrari, um acadêmico apaixonado por tecnologia e aprendizado constante. Atualmente, estou cursando **Ciência da Computação** na Universidade Federal de Rondônia (UNIR), onde dou os primeiros passos em direção ao meu grande 
+👋 Olá! Eu sou o **Thiago Zimermann Ferrari**, um acadêmico apaixonado por tecnologia e aprendizado constante. Atualmente, estou cursando **Ciência da Computação**, onde dou os primeiros passos em direção ao meu grande 
 objetivo: me especializar nas áreas de **Inteligência Artificial (IA)**, **Machine Learning (ML)**, **Data Science** e **Deep Learning**. 🌌
 
 📚 Além disso, estou me dedicando ao aprendizado da **língua inglesa**, essencial para minha carreira na área de tecnologia, e já planejo minha próxima graduação em **Matemática** para aprofundar ainda mais meu conhecimento técnico.
